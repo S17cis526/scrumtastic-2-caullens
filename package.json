@@ -17,13 +17,13 @@
     "task",
     "board"
   ],
-  "author": "Nathan H. Bean",
+  "author": "Caullen R. Sasnett",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zombiepaladin/scrumtastic/issues"
+    "url": "https://github.com/S17cis526/scrumtastic-2-caullens.git"
   },
-  "homepage": "https://github.com/zombiepaladin/scrumtastic#readme",
+  "homepage": "",
   "dependencies": {
-    "sqlite3": "3.1.8"
+    "sqlite3": "^3.1.8"
   }
 }
